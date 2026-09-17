@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1732-find-the-highest-altitude](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [1991-find-the-middle-index-in-array](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,4 +59,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1991-find-the-middle-index-in-array](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
