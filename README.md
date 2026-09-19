@@ -65,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1732-find-the-highest-altitude](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1991-find-the-middle-index-in-array) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
