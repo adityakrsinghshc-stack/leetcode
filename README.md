@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0344-reverse-string) |
+| [1768-merge-strings-alternately](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1768-merge-strings-alternately](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1768-merge-strings-alternately) |
 | [3498-reverse-degree-of-a-string](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
