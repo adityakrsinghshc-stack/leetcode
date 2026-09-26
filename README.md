@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0680-valid-palindrome-ii) |
