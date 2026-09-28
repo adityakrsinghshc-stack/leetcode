@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0231-power-of-two) |
 ## Sliding Window
 |  |
 | ------- |
@@ -103,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0680-valid-palindrome-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
