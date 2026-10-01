@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1991-find-the-middle-index-in-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0242-valid-anagram) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Math
 |  |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0342-power-of-four) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
