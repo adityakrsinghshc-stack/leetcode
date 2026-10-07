@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0389-find-the-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Math
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0389-find-the-difference) |
 | [0525-contiguous-array](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Binary Search
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0389-find-the-difference) |
 | [0680-valid-palindrome-ii](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1768-merge-strings-alternately) |
 | [3498-reverse-degree-of-a-string](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0389-find-the-difference) |
 ## Recursion
 |  |
 | ------- |
