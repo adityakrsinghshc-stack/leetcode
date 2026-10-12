@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Sorting
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1768-merge-strings-alternately) |
 | [3498-reverse-degree-of-a-string](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0392-is-subsequence](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0392-is-subsequence) |
 ## Manacher
 |  |
 | ------- |
