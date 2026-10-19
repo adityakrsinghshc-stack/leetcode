@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0342-power-of-four) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2235-add-two-integers](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/2235-add-two-integers) |
 ## Sliding Window
 |  |
 | ------- |
