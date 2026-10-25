@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0392-is-subsequence) |
 ## Manacher
 |  |
