@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0392-is-subsequence) |
 ## Manacher
 |  |
@@ -208,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
