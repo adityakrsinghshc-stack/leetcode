@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1768-merge-strings-alternately) |
+| [2315-count-asterisks](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/2315-count-asterisks) |
 | [3498-reverse-degree-of-a-string](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
