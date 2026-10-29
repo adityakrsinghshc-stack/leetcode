@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0088-merge-sorted-array) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0389-find-the-difference) |
