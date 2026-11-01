@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0520-detect-capital) |
+| [0541-reverse-string-ii](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2315-count-asterisks](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/2315-count-asterisks) |
