@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0525-contiguous-array](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0724-find-pivot-index) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0342-power-of-four) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2235-add-two-integers](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/2235-add-two-integers) |
 ## Sliding Window
