@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0525-contiguous-array](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0724-find-pivot-index) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0389-find-the-difference) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0342-power-of-four) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2235-add-two-integers](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/2235-add-two-integers) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
