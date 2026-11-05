@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0326-power-of-three) |
