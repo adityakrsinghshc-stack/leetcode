@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0541-reverse-string-ii) |
+| [0657-robot-return-to-origin](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2315-count-asterisks](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/2315-count-asterisks) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0657-robot-return-to-origin) |
 | [1929-concatenation-of-array](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Queue
