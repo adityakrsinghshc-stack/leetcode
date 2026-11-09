@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## String
