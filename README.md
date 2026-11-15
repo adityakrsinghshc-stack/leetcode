@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0283-move-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -137,10 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/adityakrsinghshc-stack/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
